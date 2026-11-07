@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "format": "fasta",
+  "valid": true,
+  "record_count": 2,
+  "total_bases": 22,
+  "min_length": 10,
+  "max_length": 12,
+  "canonical_bases": 10,
+  "ambiguous_bases": 12,
+  "gc_percent_canonical": 60.0,
+  "issues": []
+}
